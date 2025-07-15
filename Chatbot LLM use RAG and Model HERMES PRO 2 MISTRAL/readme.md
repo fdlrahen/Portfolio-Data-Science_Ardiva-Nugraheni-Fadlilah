@@ -28,3 +28,6 @@ Build a chatbot capable of providing context-rich answers by retrieving relevant
 - Ideal for document-based QA or internal assistants
 
 ## 🚀 Usage
+1.	Developing a Hermes-2-Pro-Mistral-7B-based Chatbot to help search for information about Satya Wacana Christian University.
+2.	Improve efficiency and accuracy in accessing academic, administrative, and campus activity information.
+3.	Provide AI-based solutions that are interactive, contextual, and personalized in answering user questions.
