@@ -1,34 +1,29 @@
-# 🐦 Twitter Crawling & NLP Analysis
+# 🧠 Data Science & Machine Learning Portfolio
 
-A data pipeline project for crawling Twitter content and preparing it for sentiment analysis, trend detection, or engagement studies using NLP techniques.
+Welcome! This repository showcases a diverse collection of my applied machine learning and data science projects, covering NLP, time-series forecasting, classification, and semantic search. Each folder contains its own source code, README, and output visualizations.
 
-## 🎯 Objective
-Build a robust crawler and cleaner for Twitter data, followed by tokenization and chunking for downstream analysis.
+## 🔍 Projects
 
-## 🛠️ Tools
-- Tweepy (or snscrape)
-- Pandas
-- NLTK / spaCy / Transformers
-- Matplotlib
+### 🤖 Chatbot LLM with RAG & Hermes Pro 2 Mistral
+A retrieval-augmented chatbot combining semantic vector search with generative responses using Mistral-based transformer models.
 
-## 📦 Workflow
-1. **Crawl Data**
-   - Use keywords or hashtags
-   - Collect tweets into JSON or CSV
+### 📈 Bitcoin Forecasting: LSTM vs GRU
+A deep learning time-series study comparing LSTM and GRU architectures on predicting Bitcoin prices.
 
-2. **Clean & Preprocess**
-   - Remove URLs, mentions, emojis
-   - Lowercase + strip punctuation
+### 🌲 Random Forest vs SVM Comparison
+An evaluation of classical machine learning algorithms on structured prediction tasks using multiple metrics and visual analysis.
 
-3. **Tokenize & Analyze**
-   - Word tokenization
-   - Sentiment scoring (VADER / transformer)
-   - Topic modeling with LDA or clustering
+### 🐦 Twitter Crawling & NLP Analysis
+A crawling pipeline for Twitter data preprocessing and analysis, primed for downstream NLP use cases like sentiment or topic modeling.
 
-## 📊 Output
-- Word clouds
-- Sentiment bar charts
-- Frequent keywords
-- Timeline tweet volume
+## 🔧 Technologies Used
 
-## 🚀 Usage
+- Python, Jupyter Notebook  
+- Scikit-learn, TensorFlow / PyTorch  
+- SentenceTransformers, FAISS, LangChain  
+- Matplotlib, Seaborn  
+- GitHub Desktop for version control  
+
+## 📂 Repo Structure
+
+Each project is organized in its own folder with source code, output visualizations, and a dedicated `README.md` file describing objectives, methods, and key results.
